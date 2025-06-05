@@ -6,6 +6,8 @@
 
 PlayerPrefs Manager is a Unity editor extension tool that allows you to easily view, edit, create, and delete PlayerPrefs data directly within the Unity Editor. This tool is particularly useful for developers who need to manage game settings, user preferences, and save data during development.
 
+![image](https://github.com/user-attachments/assets/90b8c2f9-1b10-4c4d-86e4-20d94e94aea9)
+
 ## Features
 
 - View all existing PlayerPrefs with their types and values
