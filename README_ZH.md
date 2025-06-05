@@ -6,6 +6,8 @@
 
 PlayerPrefs Manager 是一款 Unity 編輯器擴充工具，能夠讓您直接在 Unity 編輯器中輕鬆查看、編輯、建立和刪除 PlayerPrefs 資料。這個工具對於需要管理遊戲設定、使用者偏好設定和遊戲存檔的開發者特別有用。
 
+![image](https://github.com/user-attachments/assets/ef082525-f114-451d-8ed2-3b62a99414f8)
+
 ## 功能特色
 
 - 查看所有現有的 PlayerPrefs 項目，包括其類型和值
