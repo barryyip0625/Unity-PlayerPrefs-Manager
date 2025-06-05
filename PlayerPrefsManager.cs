@@ -11,7 +11,7 @@ namespace BYUtils.EditorTools
         // Static regex pattern to match Unity's hash suffix
         private static readonly Regex HashRegex = new Regex("_h[a-zA-Z0-9]+$");
         
-        [MenuItem("Tools/PlayerPrefsManager")]
+        [MenuItem("Tools/BY Utils/PlayerPrefsManager")]
         public static void ShowWindow()
         {
             GetWindow<PlayerPrefsManager>("PlayerPrefsManager");
